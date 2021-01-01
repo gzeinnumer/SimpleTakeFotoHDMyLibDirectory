@@ -20,7 +20,7 @@ Just clone this repository
 
 |<img src="https://github.com/gzeinnumer/SimpleTakeFotoHDMyLibDirectory/blob/master/preview/example3.jpg"/>|<img src="https://github.com/gzeinnumer/SimpleTakeFotoHDMyLibDirectory/blob/master/preview/example4.jpg"/>|<img src="https://github.com/gzeinnumer/SimpleTakeFotoHDMyLibDirectory/blob/master/preview/example5.jpg"/>|
 |--|--|--|
-|<img src="https://github.com/gzeinnumer/SimpleTakeFotoHDMyLibDirectory/blob/master/preview/example7.jpg"/>|<img src="https://github.com/gzeinnumer/SimpleTakeFotoHDMyLibDirectory/blob/master/preview/example8.jpg"/>|<img src="https://github.com/gzeinnumer/SimpleTakeFotoHDMyLibDirectory/blob/master/preview/example9.jpg"/>|
+|<img src="https://github.com/gzeinnumer/SimpleTakeFotoHDMyLibDirectory/blob/master/preview/example6.jpg"/>|<img src="https://github.com/gzeinnumer/SimpleTakeFotoHDMyLibDirectory/blob/master/preview/example7.jpg"/>|<img src="https://github.com/gzeinnumer/SimpleTakeFotoHDMyLibDirectory/blob/master/preview/example8.jpg"/>|
 ---
 
 ```
